@@ -1,2 +1,4 @@
-# Bioinformatics-project_Laiba-Shahbaz
-Final Project
+Name: Laiba Shahbaz
+Roll Number: 04032213050
+This project involved the bioinformatics characterization of a 536 bp nucleotide sequence from Plutella xylostella. Initial identification was performed using NCBI BLASTn, which confirmed the sequence as the lethal (2) essential for life-like (l(2)efl) gene. The coding region was identified using ORF Finder, revealing a 483 bp sequence that translates into a 160 amino acid protein. The stability of the mRNA transcript was analyzed through RNAfold, showing a highly stable structure with a Minimum Free Energy (MFE) of -194.40 kcal/mol. Physical and chemical properties were determined using ProtParam, while the conserved Alpha-crystallin domain was identified via NCBI. Finally, evolutionary relationships were modeled using Clustal Omega for phylogenetics, and functional protein-protein interactions were mapped using the STRING Database, confirming the protein's role within the HSP70/90 chaperone network.
+I would like to express my sincere gratitude to Dr. Samina Shakil for their guidance and for providing the necessary computational resources and tools to complete this bioinformatics characterization project.
